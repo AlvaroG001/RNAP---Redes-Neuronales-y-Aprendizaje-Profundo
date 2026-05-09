@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Mac
+.DS_Store
+
+# Datos o modelos pesados
+*.h5
+*.keras
+*.pkl
+*.joblib
+*.pt
+*.pth
+*.csv
+*.xlsx
+*.zip
+*.tar
+*.gz
